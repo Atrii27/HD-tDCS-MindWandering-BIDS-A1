@@ -1,0 +1,16 @@
+{
+  "TaskName": "mindwandering",
+  "TaskDescription": "Pre-probe EEG during a mind-wandering thought-probe task following HD-tDCS (F3+/P3-, F3-/P3+, Sham). Filter: 0.5–40 Hz. ASR: BurstRejection=ON, ChannelCriterion=OFF, LineNoise=4, Burst=20.",
+  "InstitutionName": "Indian Institute of Technology Hyderabad",
+  "InstitutionAddress": "Kandi, Sangareddy, Telangana 502284, India",
+  "SamplingFrequency": 500,
+  "PowerLineFrequency": 50,
+  "EEGReference": "average",
+  "EEGGround": "DRL",
+  "EEGPlacementScheme": "10-20",
+  "CapManufacturer": "Neuroelectrics",
+  "CapManufacturersModelName": "Enobio 32",
+  "EEGChannelCount": 32,
+  "MiscChannelCount": 0,
+  "RecordingType": "continuous"
+}

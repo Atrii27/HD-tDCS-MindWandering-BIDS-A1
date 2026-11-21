@@ -1,0 +1,6 @@
+{
+  "Name": "HD-tDCS Mind-Wandering EEG Study",
+  "BIDSVersion": "1.9.0",
+  "License": "CC0",
+  "Authors": ["Atrii Roy"]
+}
